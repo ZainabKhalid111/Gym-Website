@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './Header.css';
 import logo from '../../assets/logo.png';
 import Bars from '../../assets/bars.png';
-import { Link } from 'react-router-dom';
 
 const Header = () => {
 
